@@ -1,0 +1,67 @@
+.p1
+{
+    font-size:x-large;
+    margin-left:100px;
+    margin-top: 40px;
+    width:85%;
+    border: 3px solid rgb(209, 209, 209);;
+    border-radius:20px;
+    text-align: justify;
+    padding: 30px;
+    background-color: rgb(246, 246, 246);
+}
+.gover
+{
+    font-size: large;
+    margin-top: 6px;
+}
+.mar
+{
+    margin-left: 300px;
+}
+.img
+{
+    width: 95%;
+    height:400px;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.div1{
+    background-color: rgb(209, 209, 209);
+    height:480px;
+    border: 5px solid rgb(188, 188, 188);
+    margin-top: 20px;
+    border-radius: 30px;
+}
+.div2{
+    height:100px;
+    background-color: white;
+}
+.cardimg
+{
+    height:200px;
+    width:200px;
+}
+.clik
+{
+    margin-left: 100px;
+}
+.imgmar
+{
+    margin-left: 80px;
+}
+.ldiv
+{
+    height:150px;
+    width:100%;
+    background-color: black;
+}
+.jus{
+    height:30px;
+    width:100%
+}
+.tex
+{
+    text-align: center;
+    color: white;
+}
